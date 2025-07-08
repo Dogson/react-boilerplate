@@ -1,2 +1,2 @@
 # react-boilerplate
-Boilerplate for React + Vite + Eslint + Prettier + Husky (commitlint &amp; lintstaged) + Storybook + Tailwind
+Boilerplate for React + Vite + Tailwind + Storybook + Eslint + Prettier + Husky (commitlint &amp; lintstaged)
